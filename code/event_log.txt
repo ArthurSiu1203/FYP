@@ -1,0 +1,24 @@
+LogID	Event	Time
+1	Start Process of applying new bank account	2023-03-08 14:48:26.048681
+1	Fill in application form with branch staff	2023-03-08 14:48:26.554951
+1	Check with credit bureau	2023-03-08 14:48:27.063809
+1	Bank account open success	2023-03-08 14:48:27.569789
+2	Start Process of applying new bank account	2023-03-08 14:48:28.080811
+2	Upload personal identification documents	2023-03-08 14:48:28.592765
+2	eKYC process	2023-03-08 14:48:29.096855
+2	Check with credit bureau	2023-03-08 14:48:29.607588
+2	Bank account open reject	2023-03-08 14:48:30.115992
+3	Start Process of applying new bank account	2023-03-08 14:48:30.623602
+3	Upload personal identification documents	2023-03-08 14:48:31.130009
+3	eKYC process	2023-03-08 14:48:31.640848
+3	Check with credit bureau	2023-03-08 14:48:32.151757
+3	Bank account open success	2023-03-08 14:48:32.664158
+4	Start Process of applying new bank account	2023-03-08 14:48:33.171703
+4	Upload personal identification documents	2023-03-08 14:48:33.677777
+4	eKYC process	2023-03-08 14:48:34.186915
+4	Check with credit bureau	2023-03-08 14:48:34.694206
+4	Bank account open success	2023-03-08 14:48:35.203299
+5	Start Process of applying new bank account	2023-03-08 14:48:35.711710
+5	Fill in application form with branch staff	2023-03-08 14:48:36.222703
+5	Check with credit bureau	2023-03-08 14:48:36.733603
+5	Bank account open success	2023-03-08 14:48:37.244779
