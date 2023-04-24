@@ -1,7 +1,0 @@
-1. find out startevent & endevent
-2. Outgoing of startEvent (if > 1 outgoing: raise error here)
-3. Loop all event see if there is an incoming same as outgoing in step 2 (if >1 incoming: ignore here)
-4. Get outgoing from event at step 3 (if >1 outgoing : (if type of event=gateway : random generator ? raise error))
-5. Loop though step 3 & 4
-...
-6. if event = endEvent : (if outgoing>0 : raise error)
